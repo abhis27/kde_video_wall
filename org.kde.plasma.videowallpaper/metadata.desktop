@@ -1,0 +1,45 @@
+[Desktop Entry]
+Name=Video (Abhis27)
+Name[ast]=Video (Abhis27)
+Name[ca]=Video (Abhis27)
+Name[ca@valencia]=Video (Abhis27)
+Name[cs]=Video (Abhis27)
+Name[da]=Video (Abhis27)
+Name[de]=Video (Abhis27)
+Name[en_GB]=Video (Abhis27)
+Name[es]=Video (Abhis27)
+Name[et]=Video (Abhis27)
+Name[fi]=Video (Abhis27)
+Name[fr]=Video (Abhis27)
+Name[gd]=Video (Abhis27)
+Name[gl]=Video (Abhis27)
+Name[it]=Video (Abhis27)
+Name[ko]=Video (Abhis27)
+Name[nb]=Video (Abhis27)
+Name[nl]=Video (Abhis27)
+Name[nn]=Video (Abhis27)
+Name[pl]=Video (Abhis27)
+Name[pt]=Video (Abhis27)
+Name[pt_BR]=Video (Abhis27)
+Name[ru]=Video (Abhis27)
+Name[sk]=Video (Abhis27)
+Name[sl]=Video (Abhis27)
+Name[sr]=Video (Abhis27)
+Name[sr@ijekavian]=Video (Abhis27)
+Name[sr@ijekavianlatin]=Video (Abhis27)
+Name[sr@latin]=Video (Abhis27)
+Name[sv]=Video (Abhis27)
+Name[uk]=Video (Abhis27)
+Name[x-Video]=xxVideoxx
+
+Type=Service
+Icon=plasma
+
+X-KDE-ServiceTypes=Plasma/Wallpaper
+X-KDE-PluginInfo-Author=Abhis27.Github.Io
+X-KDE-PluginInfo-Email=abhis27@outlook.com
+X-KDE-PluginInfo-Name=org.kde.plasma.videowallpaper
+X-KDE-PluginInfo-License=LGPLv2+
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://plasma.kde.org/
+X-Plasma-MainScript=ui/main.qml
