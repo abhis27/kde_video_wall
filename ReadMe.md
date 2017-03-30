@@ -30,6 +30,4 @@ $ plasmashell
 > Goto Wallpaper Settings & Re-Select the Video wall , Then catch Errors in Above Terminal & Fix YourSelf  :(
 
 ![Where is My Image?](http://orig14.deviantart.net/4454/f/2017/089/1/9/screenshot_by_abhis27-db40q6e.jpg)
-> Have a Nice Time !!!
-
-[[ LICENSE ]](http://www.wtfpl.net/txt/copying/)
+> [[ LICENSE ]](http://www.wtfpl.net/txt/copying/)
